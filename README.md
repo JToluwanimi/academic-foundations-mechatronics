@@ -186,3 +186,27 @@ Full taxonomy: [`skills_mapping.md`](skills_mapping.md)
 ---
 
 ## 7. Repository Structure
+
+```
+academic-foundations-mechatronics/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── credentials/
+│   ├── BSc_Transcript.pdf
+│   ├── CV_Toluwanimi_Jesusina.pdf
+│   └── Statement_of_Purpose.pdf
+├── coursework/
+│   ├── Control_Systems.md
+│   ├── Robotics_and_Automation.md
+│   ├── AI_and_Neural_Networks.md
+│   ├── Embedded_Systems.md
+│   └── Mechatronics_Design.md
+└── skills_mapping.md
+```
+
+## 8. License & Contact
+
+MIT License — see [LICENSE](LICENSE).
+
+**Toluwanimi Jesusina** · [LinkedIn](https://linkedin.com/in/toluwanimi-jesusina-30b547241) · [EMAIL](mailto:jesusinatoluwanimi@gmail.com)
