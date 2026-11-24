@@ -26,7 +26,7 @@ Every claim in my engineering portfolio traces back to a course, a project, or a
 
 | Document | Description | Link |
 |----------|-------------|------|
-| BSc Transcript | Official academic transcript | [PDF](credentials/Transcript.pdf) |
+| BSc Transcript | Official academic transcript | [PDF](credentials/Transcript .pdf) |
 | Curriculum Vitae | Professional CV (evidence-based) | [PDF](credentials/Toluwanimi_Jesusina_Professional_CV.pdf) |
 
 ---
